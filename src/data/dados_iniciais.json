@@ -152,32 +152,32 @@
       ]
     },
     {
-      "titulo": "Aprendendo a aprender tecnologia",
+      "titulo": "Aulas sobre Tecnologia",
       "cor": "#6b5be2",
       "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
-        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+        "text": "Canal @chameoandre no youtube",
+        "url": "https://www.youtube.com/channel/UCWEgCF5zzF5TQsnrmkP_xbQ"
       },
       "videos": [
         {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+          "titulo": "Live com Fabiano Bitar, CEO da Possible",
+          "url": "https://youtu.be/Y23-HqK_suE"
         },
         {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+          "titulo": "Introdução ao BootStrap",
+          "url": "https://youtu.be/kh59nZdjNrk"
         },
         {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "Alteração no Banco de dados Mysql com PHP",
+          "url": "https://youtu.be/D6vhwifLnjA"
         },
         {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+          "titulo": "Linux CentOS - Criando sessões SSH",
+          "url": "https://youtu.be/T3NAhUhN5TA"
         },
         {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+          "titulo": "Trabalhando com Agrupamento de elementos no javaScript",
+          "url": "https://youtu.be/DQHXCMawwyc"
         }
       ]
     }
