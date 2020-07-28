@@ -5,7 +5,7 @@ import './Menu.css';
 import Button from '../Button';
 //import ButtonLink from './components/ButtonLink';
 
-function Menu(){
+function Menu(){ 
     return (
         <nav className = "Menu">
             <Link to="/">
