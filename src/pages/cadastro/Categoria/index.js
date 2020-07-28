@@ -13,4 +13,4 @@ function CadastroCategoria(){
       </PageDefault>
     )
   }
-  export default CadastroCategoria;
+  export default CadastroCategoria;  
