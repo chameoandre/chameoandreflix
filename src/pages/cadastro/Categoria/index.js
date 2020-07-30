@@ -13,7 +13,7 @@ function CadastroCategoria(){
 
   const [categorias, setCategorias] = useState([]);
   const [values, setValues] = useState(valoresIniciais);
-  
+   
 
   function setValue(chave,valor){
     setValues({
