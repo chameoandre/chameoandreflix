@@ -46,8 +46,8 @@
     {
       "id": 1,
       "categoriaId": 1,
-      "titulo": "SEO com React",
-      "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+      "titulo": "Live com Fabiano Bitar (CEO da Possible) e André Moraes @chameoandre (professor do Instituto Federal",
+      "url": "https://www.youtube.com/watch?v=Y23-HqK_suE&t=16s"
     },
     {
       "id": 2,
@@ -192,6 +192,25 @@
       "url": "https://www.youtube.com/watch?v=Y23-HqK_suE&t=16s",
       "categoriaId": 1,
       "id": 25
+    },
+    {
+      
+      "titulo": "Professor André Moraes - Descubra um pouco mais sobre a vida do @chameoandre, que depois de muito suor e tempo para assistir os vídeos da imersão REACT da Alura conseguiu fazer essa porra toda funcionar como devia :)",
+      "url": "https://www.youtube.com/watch?v=Y23-HqK_suE&t=16s",
+      "categoriaId": 2,
+      "id": 26
+    },
+    {
+      "titulo": "Utilizando o BootStrap com André Moraes",
+      "url": "https://www.youtube.com/watch?v=TsWYc2PA0SE",
+      "categoriaId": 1,
+      "id": 27
+    },
+    {
+      "id": 28,
+      "categoriaId": 1,
+      "titulo": "SEO com React",
+      "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
     }
   ]
 }
